@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    text-decoration: wavy red underline;
+}
+
+h3 {
+    text-align: right;
+    text-decoration: pink line-through;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    font-weight: normal;
+    text-decoration: overline;
+}
+
+a {
+    text-decoration: none;
+}
