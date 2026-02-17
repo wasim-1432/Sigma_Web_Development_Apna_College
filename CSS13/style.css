@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    text-decoration: wavy red underline;
+    letter-spacing: 20px;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: right;
+    text-decoration: pink line-through;
+    
+}
+
+p {
+    text-align: center;
+    line-height: 2.5;
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: normal;
+    text-decoration: overline;
+}
+
+a {
+    text-decoration: none;
+}
