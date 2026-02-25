@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.No {
+    margin-top: 200px;
+    padding-left: 23px;
+    padding-right: 23px;
+    font-size: 23px;
+    background-color: wheat;
+    border-radius: 23px;
+    margin-left: 330px;
+    border: none;
+    transition: margin-top 2s ease-in 0.2;
+}
+
+.Yes {
+    padding-left: 23px;
+    padding-right: 23px;
+    font-size: 23px;
+    background-color: greenyellow;
+    border-radius: 23px;
+    margin-left: 30px;
+    border: none;
+}
+
+
+.No:hover {
+    transform: translateY(200px);
+}
