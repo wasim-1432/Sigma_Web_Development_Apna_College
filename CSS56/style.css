@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    gap: 50px;
+}
+
+.first {
+    width: 200px;
+    height: 230px;
+    background-image: url("image\ copy.png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px black;
+    padding-left: 3px;
+    transition: 1s;
+}
+
+.second {
+    width: 200px;
+    height: 230px;
+    background-image: url("image.png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px black;
+    padding-left: 3px;
+    transition: 1s;
+}
+
+h2 {
+    padding-top: 123px;
+    padding-bottom: 10px;
+}
+
+.first:hover {
+    box-shadow: 5px 5px 20px black;
+}
+.second:hover {
+    box-shadow: 5px 5px 20px black;
+}
